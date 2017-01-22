@@ -1,19 +1,19 @@
 
 /**
- * 1.Lana Teider
- * 2.Aylin Weber
- * 3.Christine Banken
- * 4.Miguel Marley
- * 5.Chanu Autar
- * 6.Stavros Makris
- * 7.Michael Planck
- * 8.James Morrison-Knight
- * 9.Gerard Rodan
- * 10.Johannes Härri
- * 11.Linnea Hay
- * 12.Avigail Lowes
- * 13.George Kyriakou
- * 14.Karl Bergström
+ * 1.Lana 
+ * 2.Aylin 
+ * 3.Christine 
+ * 4.Miguel 
+ * 5.Chanu 
+ * 6.Stavros 
+ * 7.Michael 
+ * 8.James 
+ * 9.Gerard 
+ * 10.Johannes 
+ * 11.Linnea 
+ * 12.Avigail 
+ * 13.George  
+ * 14.Karl 
  */
 
 import java.util.Arrays;
@@ -26,15 +26,14 @@ public class AssignTo {
 			// int[] af ={0,1,2,3,4,5,6,7,8,9,10,11,12,13};
 
 			// Random rgen = new Random(); // Random number generator
-			/* String[] ray1 = { "Lana Teider", "Aylin Weber", "Christine Banken", "Miguel Marley", "Chanu Autar",
-					"Stavros Makris", "Michael Planck", "James Morrison-Knight", "Gerard Rodan", "Johannes Härri",
-					"Linnea Hay", "Avigail Lowes", "George Kyriakou", "Karl Bergström" };
+			/* String[] ray1 = { "Lana", "Aylin", "Christine", "Miguel", "Chanu",
+					"Stavros", "Michael", "James", "Gerard", "Johannes",
+					"Linnea", "Avigail", "George", "Karl" };
 
-			String[] ray = { "Lana Teider", "Aylin Weber", "Christine Banken", "Miguel Marley", "Chanu Autar",
-					"Stavros Makris", "Michael Planck", "James Morrison-Knight", "Gerard Rodan", "Johannes Härri",
-					"Linnea Hay", "Avigail Lowes", "George Kyriakou", "Karl Bergström" }; */
-			String[] ray1 = {"Edward Sekayanira","María Fernanda","Israel Israel Allan","Manoaj"};
-			String[] ray = {"Edward Sekayanira","María Fernanda","Israel Israel Allan","Manoaj"};
+			String[] ray = { "Lana", "Aylin", "Christine", "Miguel", "Chanu",
+					"Stavros", "Michael", "James", "Gerard", "Johannes",
+					"Linnea", "Avigail", "George", "Karl" }; */
+			
 			
 			Collections.shuffle(Arrays.asList(ray));
 			int x = 0;
