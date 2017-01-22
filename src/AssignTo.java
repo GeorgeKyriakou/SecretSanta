@@ -23,16 +23,16 @@ public class AssignTo {
 
 	public static void main(String[] args) {
 		{
-			// int[] af ={0,1,2,3,4,5,6,7,8,9,10,11,12,13};
+			
 
-			// Random rgen = new Random(); // Random number generator
-			/* String[] ray1 = { "Lana", "Aylin", "Christine", "Miguel", "Chanu",
+			
+			 String[] ray1 = { "Lana", "Aylin", "Christine", "Miguel", "Chanu",
 					"Stavros", "Michael", "James", "Gerard", "Johannes",
 					"Linnea", "Avigail", "George", "Karl" };
 
 			String[] ray = { "Lana", "Aylin", "Christine", "Miguel", "Chanu",
 					"Stavros", "Michael", "James", "Gerard", "Johannes",
-					"Linnea", "Avigail", "George", "Karl" }; */
+					"Linnea", "Avigail", "George", "Karl" }; 
 			
 			
 			Collections.shuffle(Arrays.asList(ray));
