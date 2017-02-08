@@ -39,7 +39,7 @@ public class AssignTo {
 			int x = 0;
 			while (true) {
 				x=0;
-				for (int i = 0; i < 4; i++) {
+				for (int i = 0; i < ray.length; i++) {
 					if (ray1[i] == ray[i])
 						x = 1;
 				}
